@@ -15,22 +15,21 @@ and good communication.
 
 ## Projects
 
-| Name                    | Description       | Tech/tools        |
-| ----------------------- | ----------------- | ----------------- |
-| **Student Directory**   | Interactive       | Ruby              |
-|                         | directory of      |                   |
-|                         | students          |                   |
+| Name                    | Description                         | Tech/tools  |
+| ----------------------- | ------------------------------------| ----------- |
+| **Student Directory**   | Interactive directory of students   | Ruby        |
+
 
 ## Experience
 
 **Education and Training Foundation** (April 2020 - August 2020)  
-Finance Systems Specialist
+- Finance Systems Specialist
 
 **Statpro/Confluence** (October 2018 - April 2020)  
-ERP Assistant Admin
+- ERP Assistant Admin
 
 **Southern Housing** (October 2016 - September 2018)
-Trainee Systems Accountant
+- Trainee Systems Accountant
 
 ## Skills
 
