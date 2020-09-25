@@ -68,7 +68,7 @@ wiki.
 ## Education
 
 #### Makers Academy (Septemer 2020 - December 2020)
-- 12 Week intensive coding bootcamp (remote)
+12 Week intensive coding bootcamp (remote)
 
 #### Brighton University (2015-2016)
 Diploma in Professional Studies in Accounting
