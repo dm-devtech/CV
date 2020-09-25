@@ -12,9 +12,9 @@ approach to problem solving and good communication.
 
 ## Projects
 
-| Name                                    | Description                         | Tech/tools  |
-| --------------------------------------- | ------------------------------------| ----------- |
-| [**Student Directory**](directory.rb)   | Interactive directory of students   | Ruby        |
+| Name                                                                             | Description                         | Tech/tools  |
+| -------------------------------------------------------------------------------- | ------------------------------------| ----------- |
+| [**Student Directory**](dm-devtech/student-directory/blob/master/directory.rb)   | Interactive directory of students   | Ruby        |
 
 ## Technologies
 - Ruby
@@ -82,6 +82,6 @@ Year abroad: Augsburg University 2007/8
 - Sports (Formula 1)
 
 ## Contact
-[Github](https://github.com/dm-devtech)
-[Codewars](https://www.codewars.com/users/dm-devtech)
-[Blog](https://anewdeveloper.wordpress.com/)
+- [Github](https://github.com/dm-devtech)
+- [Codewars](https://www.codewars.com/users/dm-devtech)
+- [Blog](https://anewdeveloper.wordpress.com/)
