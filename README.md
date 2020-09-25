@@ -12,9 +12,9 @@ approach to problem solving and good communication.
 
 ## Projects
 
-| Name                                                                             | Description                         | Tech/tools  |
-| -------------------------------------------------------------------------------- | ------------------------------------| ----------- |
-| [**Student Directory**](dm-devtech/student-directory/blob/master/directory.rb)   | Interactive directory of students   | Ruby        |
+| Name                                                                       | Description                         | Tech/tools  |
+| -------------------------------------------------------------------------- | ------------------------------------| ----------- |
+| [**Student Directory**](https://github.com/dm-devtech/student-directory)   | Interactive directory of students   | Ruby        |
 
 ## Technologies
 - Ruby
