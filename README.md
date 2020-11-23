@@ -1,13 +1,13 @@
 ## David Millen
 
-I am currently a student at the Makers Academy enrolled on the 12 week intensive 
-developer bootcamp course.  I moved into development so that I could learn front 
-and back end technologies.  I also enjoy building programs from scratch 
+I am currently a student at the Makers Academy enrolled on the 12 week intensive
+developer bootcamp course.  I moved into development so that I could learn front
+and back end technologies.  I also enjoy building programs from scratch
 and seeing the code come to life.
 
-I worked in finance system administraton for various companies/charities between 
-2016-2020.  The problem solving and debugging skills I acquired when working in 
-systems administration can be transferred to coding such as a systematic 
+I worked in finance system administraton for various companies/charities between
+2016-2020.  The problem solving and debugging skills I acquired when working in
+systems administration can be transferred to coding such as a systematic
 approach to problem solving and good communication.
 
 ## Projects
@@ -19,6 +19,11 @@ approach to problem solving and good communication.
 ## Technologies
 - Ruby
 - RSpec
+- Postgresql
+- SQL
+- HTML
+- Javascript
+- Jasmine
 - TDD
 
 ## Experience
@@ -36,34 +41,34 @@ approach to problem solving and good communication.
 
 #### Attention to detail
 -  Attention to detail was required at ETF when running month end reports for
-budget holders.  This is transferrable to coding as you have to have a keen 
+budget holders.  This is transferrable to coding as you have to have a keen
 eye for detail when debugging lines of code.   
 
 #### Creativity
-- I come from a humanities background as well as accountancy and I can bring 
+- I come from a humanities background as well as accountancy and I can bring
 creativity to problem solving, generating new ideas and coding more generally.  
 
 #### Debugging / Problem solving
-- At Statpro I was able to debug issues such as with the general ledger by 
+- At Statpro I was able to debug issues such as with the general ledger by
 querying the sql database using sql server.  
-- Also, during the UAT before the new finance system was deployed we would 
-- have to solve issues and debug any issues found 
+- Also, during the UAT before the new finance system was deployed we would
+- have to solve issues and debug any issues found
 during testing.  
 
 #### Communication
-- Good communication was always required working in systems administration 
-so that any system issues, key information or warnings were clearly explained 
+- Good communication was always required working in systems administration
+so that any system issues, key information or warnings were clearly explained
 and any training given was understood.  
 
 #### Process Driven
-- In all my roles as a systems admin writing and following procedures were 
-required for example writing the processes for budget holder reporting at 
+- In all my roles as a systems admin writing and following procedures were
+required for example writing the processes for budget holder reporting at
 month end at ETF and also writing tax input procedures at Statpro.  
 
 #### Documentation writing
 - I wrote the documentation for the finance system for non finance users at ETF
 and at Statpro for the newly deployed finance system in 2019 using the internal
-wiki. 
+wiki.
 
 ## Education
 
