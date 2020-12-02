@@ -17,21 +17,29 @@ approach to problem solving and good communication.
 | [**Student Directory**](https://github.com/dm-devtech/student-directory)   | Interactive directory of students   | Ruby        |
 
 ## Technologies
+### Languages used:
 - Ruby
-- RSpec
+- Rails
+- Sinatra
 - Postgresql
 - SQL
 - HTML
 - Javascript
+- HTML
+- CSS
+
+### Testing frameworks used:
+- RSpec
+- Capybara
 - Jasmine
-- TDD
+- Jest
 
 ## Experience
 
 **Education and Training Foundation** (April 2020 - August 2020)  
 - Finance Systems Specialist
 
-**Statpro/Confluence** (October 2018 - April 2020)  
+**Statpro/Confluence** (October 2018 - April 2020)
 - ERP Assistant Admin
 
 **Southern Housing** (October 2016 - September 2018)
