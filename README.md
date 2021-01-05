@@ -37,7 +37,7 @@ approach to problem solving and good communication.
 **Education and Training Foundation** (April 2020 - August 2020)  
 - Finance Systems Specialist
 
-**Statpro/Confluence** (October 2018 - April 2020)
+**Statpro/Confluence** (September 2018 - April 2020)
 - ERP Assistant Admin
 
 **Southern Housing** (October 2016 - September 2018)
@@ -89,7 +89,7 @@ German and Class. Civ (2:1)
 Year abroad: Augsburg University 2007/8
 
 ## Hobbies
-- Music (Electronic music - Ableton, M4L, Renoise)
+- Music (Electronic music - Ableton, M4L, Renoise, Cycling74 Max MSP)
 - Motorsport
 
 ## Contact
