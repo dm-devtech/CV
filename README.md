@@ -14,25 +14,23 @@ approach to problem solving and good communication.
 
 | Name                                                                       | Description                         | Tech/tools  |
 | -------------------------------------------------------------------------- | ------------------------------------| ----------- |
-| [**Student Directory**](https://github.com/dm-devtech/student-directory)   | Interactive directory of students   | Ruby        |
+| [**CatchMe App**](https://github.com/dm-devtech/catchme-web)   | Makers Final group project.  An app where you can race your friends in various race distances in various locations   | Main technologies used: Cypress, ReactJS, JavaScript, Apollo Client, Sass |
 
 ## Technologies
 ### Languages used:
-- Ruby
+- Javascript (with ReactJS)
+- Ruby (also with Sinatra)
 - Rails
-- Sinatra
-- Postgresql
-- SQL
-- HTML
-- Javascript
+- SQL (Postgresql)
 - HTML
 - CSS
 
 ### Testing frameworks used:
-- RSpec
-- Capybara
 - Jasmine
 - Jest
+- Cypress
+- RSpec
+- Capybara
 
 ## Experience
 
@@ -92,9 +90,8 @@ Year abroad: Augsburg University 2007/8
 
 ## Hobbies
 - Music (Electronic music - Ableton, M4L, Renoise)
-- Sports (Formula 1)
+- Motorsport
 
 ## Contact
 - [Github](https://github.com/dm-devtech)
 - [Codewars](https://www.codewars.com/users/dm-devtech)
-- [Blog](https://anewdeveloper.wordpress.com/)
