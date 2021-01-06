@@ -1,9 +1,7 @@
 ## David Millen
 
-I am currently a student at the Makers Academy enrolled on the 12 week intensive
-developer bootcamp course.  I moved into development so that I could learn front
-and back end technologies.  I also enjoy building programs from scratch
-and seeing the code come to life.
+Aspiring developer, looking for an entry level position. Excited to learn new technologies and focused on test driven
+development. Graduated from the Makers intensive coding bootcamp in December 2020 
 
 I worked in finance system administraton for various companies/charities between
 2016-2020.  The problem solving and debugging skills I acquired when working in
@@ -14,7 +12,7 @@ approach to problem solving and good communication.
 
 | Name                                                                       | Description                         | Tech/tools  |
 | -------------------------------------------------------------------------- | ------------------------------------| ----------- |
-| [**CatchMe App**](https://github.com/dm-devtech/catchme-web)   | Makers Final group project.  An app where you can race your friends in various race distances in various locations   | Main technologies used: Cypress, ReactJS, JavaScript, Apollo Client, Sass |
+| [**CatchMe App**](https://github.com/dm-devtech/catchme-web)   | Makers Final group project.  An app where you can race your friends in race of distances.  One person creates a lobby, their friends join the lobby, the lobby host starts the race and the race distance covered is monitored.   The winner is the player who covers the race distance quickest.  | Main technologies used: Cypress, ReactJS, JavaScript, Apollo Client, Sass |
 
 ## Technologies
 ### Languages used:
