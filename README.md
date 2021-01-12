@@ -55,24 +55,22 @@ creativity to problem solving, generating new ideas and coding more generally.
 #### Debugging / Problem solving
 - At Statpro I was able to debug issues such as with the general ledger by
 querying the sql database using sql server.  
-- Also, during the UAT before the new finance system was deployed we would
-- have to solve issues and debug any issues found
-during testing.  
+- UAT leading to the deployment of Sage Intacct.  Logging and debugging issues found during testing  
 
 #### Communication
 - Good communication was always required working in systems administration
-so that any system issues, key information or warnings were clearly explained
+so that any system issues, key information or warnings were clearly explained to users
 and any training given was understood.  
 
 #### Process Driven
 - In all my roles as a systems admin writing and following procedures were
-required for example writing the processes for budget holder reporting at
-month end at ETF and also writing tax input procedures at Statpro.  
+required for example ensuring new starters and leavers were processed according 
+to the procedures for maintaining and removing users' system access.
 
 #### Documentation writing
-- I wrote the documentation for the finance system for non finance users at ETF
-and at Statpro for the newly deployed finance system in 2019 using the internal
-wiki.
+- I wrote the documentation for the purchase order system for system users at ETF in 2020.  
+At Statpro I wrote documentation for multiple areas of the new deployed finance system (Sage Intacct) 
+in 2019-2020.
 
 ## Education
 
