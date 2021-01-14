@@ -13,6 +13,7 @@ these roles can be transferred to coding such as a systematic approach to proble
 | Name                                                                       | Description                         | Tech/tools  |
 | -------------------------------------------------------------------------- | ------------------------------------| ----------- |
 | [**CatchMe App**](https://github.com/dm-devtech/catchme-web)   | Makers Final group project.  An app where you can race your friends in race of distances.  One person creates a lobby, their friends join the lobby, the lobby host starts the race and the race distance covered is monitored.   The winner is the player who covers the race distance quickest.  | Main technologies used: Cypress, ReactJS, JavaScript, Apollo Client, Sass |
+| [**Bank Tech test**](https://github.com/dm-devtech/bank_tech_test)   | Example tech test where user withdraws and deposits amounts and can print a bank statement  | Main technologies used: Javascript, Jest, Node |
 
 ## Technologies
 ### Languages used:
