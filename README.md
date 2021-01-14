@@ -1,12 +1,12 @@
 ## David Millen
+- [Github](https://github.com/dm-devtech)
+- [Codewars](https://www.codewars.com/users/dm-devtech)
 
-Aspiring developer, looking for an entry level position. Excited to learn new technologies and focused on test driven
+Software developer and recent graduate from the Makers Academy bootcamp. Excited to learn new technologies and focused on test driven
 development. Graduated from the Makers intensive coding bootcamp in December 2020 
 
-I worked in finance system administraton for various companies/charities between
-2016-2020.  The problem solving and debugging skills I acquired when working in
-systems administration can be transferred to coding such as a systematic
-approach to problem solving and good communication.
+I have worked in finance system administration for various companies/charities.  The problem solving and debugging skills I acquired when working in
+these roles can be transferred to coding such as a systematic approach to problem solving, patience and good communication.
 
 ## Projects
 
@@ -44,33 +44,13 @@ approach to problem solving and good communication.
 ## Skills
 
 #### Attention to detail
--  Attention to detail was required at ETF when running month end reports for
-budget holders.  This is transferrable to coding as you have to have a keen
-eye for detail when debugging lines of code.   
-
-#### Creativity
-- I come from a humanities background as well as accountancy and I can bring
-creativity to problem solving, generating new ideas and coding more generally.  
-
-#### Debugging / Problem solving
-- At Statpro I was able to debug issues such as with the general ledger by
-querying the sql database using sql server.  
-- UAT leading to the deployment of Sage Intacct.  Logging and debugging issues found during testing  
+- For example where Historical GL data was required for the deployment of a new finance system.  My task was to map the historical GL data to the new chart of accounts and upload the data for all entities prior to system deployment.  My action was to export historical GL data from the old finance system for prior years, to convert the coding of the data to the new chart of accounts and to convert the data into the correct template format for the upload, review data and ensure accuracy and then upload the data separately for each entity.  The result was that the data was uploaded for multiple entities in time for the deployment of the finance system.
 
 #### Communication
-- Good communication was always required working in systems administration
-so that any system issues, key information or warnings were clearly explained to users
-and any training given was understood.  
+- Good communication was always required working in systems administration for example when training.  An example of this was training requisitioners and approvers to use the purchase order system.  The task was to write the guidance documentation for the PO system and deliver training to budget holders and requisitioners.  My action was to deliver the training over multiple sessions, create the required Powerpoint slides, write the guidance documentation and ensure training examples were set up in the test system.  The result was that the guidance documentation was clear and ensured the users understood the company policies relating to purchase orders.  Positive feedback was received for the training and guidance documentation.  Users increased knowledge of the finance system and had recorded training as well as documentation to refer to.
 
 #### Process Driven
-- In all my roles as a systems admin writing and following procedures were
-required for example ensuring new starters and leavers were processed according 
-to the procedures for maintaining and removing users' system access.
-
-#### Documentation writing
-- I wrote the documentation for the purchase order system for system users at ETF in 2020.  
-At Statpro I wrote documentation for multiple areas of the new deployed finance system (Sage Intacct) 
-in 2019-2020.
+- An example of this was the processing of finance systems helpdesk tickets.  The task was to ensure tickets were raised and processed correctly.  My action was to ensure that tickets were raised for finance systems issues, tickets had the relevant priority and detail, ensure that manager approval for the relevant tasks was received before actioning system changes such as opening and closing financial periods or creating GL codes.  The result was that the ticketing system was ewll maintained and system changes were made in accordance with procedure, ensuring a detailed audit trail for tickets so that analsis could take place based on helpdesk  reports.  
 
 ## Education
 
@@ -87,7 +67,3 @@ Year abroad: Augsburg University 2007/8
 ## Hobbies
 - Music (Electronic music - Ableton, M4L, Renoise, Cycling74 Max MSP)
 - Motorsport
-
-## Contact
-- [Github](https://github.com/dm-devtech)
-- [Codewars](https://www.codewars.com/users/dm-devtech)
