@@ -14,7 +14,7 @@ these roles can be transferred to coding such as a systematic approach to proble
 | -------------------------------------------------------------------------- | ------------------------------------| ----------- |
 | [**CatchMe App**](https://github.com/dm-devtech/catchme-web)   | Makers Final group project.  An app where you can race your friends in race of distances.  One person creates a lobby, their friends join the lobby, the lobby host starts the race and the race distance covered is monitored.   The winner is the player who covers the race distance quickest.  | Main technologies used: Cypress, ReactJS, JavaScript, Apollo Client, Sass |
 | [**Bank Tech test**](https://github.com/dm-devtech/bank_tech_test)   | Example tech test where user withdraws and deposits amounts and can print a bank statement  | Main technologies used: Javascript, Jest, Node |
-| [**Bowling Scorecard**](https://github.com/dm-devtech/BowlingScorecard)   | A program that calculates bowling scores and can print a scorecard | Technologies used: Javascript, Jasmine |
+| [**Bowling Scorecard React App**](https://github.com/dm-devtech/Bowling-Scorecard-React)   | A React app that calculates bowling scores. | Technologies used: Javascript (score logic), Jest/React Testing Library, React |
 | [**Baseball Scorecard**](https://github.com/dm-devtech/Baseball-Scorecard_ReactApp) | A baseball scorecard React app | React, Jest/React testing library |
 | [**Twitter clone**](https://github.com/dm-devtech/ChitterChallenge) | A twitter clone app that enables users to post tweets | Ruby, Postgres, Sinatra.  Testing in Rspec and Capybara |
  
