@@ -2,20 +2,16 @@
 - [Github](https://github.com/dm-devtech)
 - [Codewars](https://www.codewars.com/users/dm-devtech)
 
-Software developer and recent graduate from the Makers Academy bootcamp. Excited to learn new technologies and focused on test driven
-development. Graduated from the Makers intensive coding bootcamp in December 2020 
-
-I have worked in finance system administration for various companies/charities.  The problem solving and debugging skills I acquired when working in
-these roles can be transferred to coding such as a systematic approach to problem solving, patience and good communication.
+I previously worked in accounting specialising in finance systems administration for companies and organisations in the UK.  I moved into coding in 2020 because I enjoy building innovative apps that provide a useful function or solve a problem.  I enjoy working in diverse environments where there is a focus placed on innovation, collaboration and learning.  I graduated from the Makers Academy coding course in December 2020 which focused on TDD, OOP, pair programming and group projects.  In my spare time I enjoy writing music, learning languages and thinking of ideas for new apps.  
 
 ## Projects
 
 | Name                                                                       | Description                         | Tech/tools  |
 | -------------------------------------------------------------------------- | ------------------------------------| ----------- |
-| [**CatchMe App**](https://github.com/dm-devtech/catchme-web)   | Makers Final group project.  An app where you can race your friends in race of distances.  One person creates a lobby, their friends join the lobby, the lobby host starts the race and the race distance covered is monitored.   The winner is the player who covers the race distance quickest.  | Main technologies used: Cypress, ReactJS, JavaScript, Apollo Client, Sass |
-| [**Bank Tech test**](https://github.com/dm-devtech/bank_tech_test)   | Example tech test where user withdraws and deposits amounts and can print a bank statement  | Main technologies used: Javascript, Jest, Node |
-| [**Bowling Scorecard React App**](https://github.com/dm-devtech/Bowling-Scorecard-React)   | A React app that calculates bowling scores. | Technologies used: Javascript (score logic), Jest/React Testing Library, React |
-| [**Baseball Scorecard**](https://github.com/dm-devtech/Baseball-Scorecard_ReactApp) | A baseball scorecard React app | React, Jest/React testing library |
+| [**Language Lighthouse**](https://github.com/dm-devtech/language-lighthouse)   | A language learning game for German, French and Latin hosted on Heroku [here](http://language-lighthouse.herokuapp.com/) | Main technologies used: Node Express and PostgreSQL to build the APIs, React for the game.  Tested in Jest and the React Testing Library |
+| [**CatchMe App**](https://github.com/dm-devtech/catchme-web)   | An app where you can race your friends in race of distances.  One person creates a lobby, their friends join the lobby, the lobby host starts the race and the race distance covered is monitored.   The winner is the player who covers the race distance quickest.  The app is hosted on Heroku [here](http://appcatchme.herokuapp.com/) | Main technologies used: Cypress, ReactJS, JavaScript, Apollo Client, Sass |
+| [**Bowling Scorecard React App**](https://github.com/dm-devtech/Bowling-Scorecard-React)   | A React app that for entering and calculating scores in a game of ten pin bowling. | Technologies used: Javascript (for the scoring logic), Jest/React Testing Library, React |
+| [**Baseball Scorecard**](https://github.com/dm-devtech/Baseball-Scorecard_ReactApp) | A React app for tracking progress in a game of baseball | React, Jest/React testing library |
 | [**Twitter clone**](https://github.com/dm-devtech/ChitterChallenge) | A twitter clone app that enables users to post tweets | Ruby, Postgres, Sinatra.  Testing in Rspec and Capybara |
  
 ## Technologies
