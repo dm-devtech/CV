@@ -2,13 +2,19 @@
 - [Github](https://github.com/dm-devtech)
 - [Codewars](https://www.codewars.com/users/dm-devtech)
 
-I previously worked in accounting specialising in finance systems administration for companies and organisations in the UK.  I moved into coding in 2020 because I enjoy building innovative apps that provide a useful function or solve a problem.  I enjoy working in diverse environments where there is a focus placed on innovation, collaboration and learning.  I graduated from the Makers Academy coding course in December 2020 which focused on TDD, OOP, pair programming and group projects.  In my spare time I enjoy writing music, learning languages and thinking of ideas for new apps.  
+## Personal Profile
 
+I previously worked in accounting (specialising in finance systems administration) for companies and organisations in the UK.  I moved into coding in 2020 because I am motivated by the opportunities coding gives to be creative and build apps that promote learning, provide a useful function or solve a real world problem.  I find it inspiring that coding knowledge gives you to convert any idea into a tangible app.  
+
+I graduated from the Makers Academy coding course in December 2020 which focused on TDD, OOP, pair programming and group projects.  The course fundamentals were taught in Ruby and JavaScript.  During the course I undertook multiple external reviews of my coding process in Javascript so that I could improve my TDD process.  I have a strong passion for learning so every day I try to research topics and code in order to expand my knowledge and grow as a developer.  
+
+I recently built a game to learn foreign language words (in German, French and Latin) and this included building dictionary APIs.  I have contributed to open source projects as I very much enjoy collaborating with other devs and I find making successful pull requests to open source projects very satisfying.  I have good attention to detail having worked in finance, good problem solving skills and interpersonal skills.  Before working in finance I worked in marketing so I have an understanding of the vital role of the customer, their feedback and the importance of the user journey.  In my spare time I enjoy writing music and travelling.      
+ 
 ## Projects
 
 | Name                                                                       | Description                         | Tech/tools  |
 | -------------------------------------------------------------------------- | ------------------------------------| ----------- |
-| [**Language Lighthouse**](https://github.com/dm-devtech/language-lighthouse)   | A language learning game for German, French and Latin hosted on Heroku [here](http://language-lighthouse.herokuapp.com/) | Main technologies used: Node Express and PostgreSQL to build the APIs, React for the game.  Tested in Jest and the React Testing Library |
+| [**Language Lighthouse**](https://github.com/dm-devtech/language-lighthouse)   | A game that enables users to test their knowledge of German, French and Latin.  The app is hosted on Heroku [here](http://language-lighthouse.herokuapp.com/) | Main technologies used: Node Express and PostgreSQL to build the APIs, the game is built in React.  The app is tested in Jest and the React Testing Library |
 | [**CatchMe App**](https://github.com/dm-devtech/catchme-web)   | An app where you can race your friends in race of distances.  One person creates a lobby, their friends join the lobby, the lobby host starts the race and the race distance covered is monitored.   The winner is the player who covers the race distance quickest.  The app is hosted on Heroku [here](http://appcatchme.herokuapp.com/) | Main technologies used: Cypress, ReactJS, JavaScript, Apollo Client, Sass |
 | [**Bowling Scorecard React App**](https://github.com/dm-devtech/Bowling-Scorecard-React)   | A React app that for entering and calculating scores in a game of ten pin bowling. | Technologies used: Javascript (for the scoring logic), Jest/React Testing Library, React |
 | [**Baseball Scorecard**](https://github.com/dm-devtech/Baseball-Scorecard_ReactApp) | A React app for tracking progress in a game of baseball | React, Jest/React testing library |
@@ -67,4 +73,5 @@ Year abroad: Augsburg University 2007/8
 
 ## Hobbies
 - Music (Electronic music - Ableton, M4L, Renoise, Cycling74 Max MSP)
+- Travelling
 - Motorsport
