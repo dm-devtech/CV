@@ -3,11 +3,12 @@
 - [Codewars](https://www.codewars.com/users/dm-devtech)
 
 ## Personal Profile
-I previously worked in accounting (specialising in finance systems administration) for companies and organisations in the UK.  I moved into coding in 2020 because I am motivated by the opportunities coding gives to be creative and build apps that promote learning, provide a useful function or solve a real world problem.  I find it inspiring that coding knowledge gives you to convert an idea into a tangible app.  
+I previously worked in accounting (specialising in finance systems administration) for companies and organisations in the UK.  I moved into software development in 2020 because I am motivated by creativity, collaborating with other developers, learning new technologies, using tech to drive business improvements and to deliver tangible benefits to users and organisations.  
 
 I graduated from the Makers Academy coding course in December 2020 which focused on TDD, OOP, pair programming and group projects.  The course fundamentals were taught in Ruby and JavaScript.  During the course I undertook multiple external reviews of my coding process in Javascript so that I could improve my TDD process.  I have a strong passion for learning so every day I try to learn new tech and code as much as possible in order to expand my knowledge and grow as a developer. 
 
-I have contributed to open source projects as I enjoy collaborating with other devs and I find making successful pull requests to those projects very satisfying.  I have good attention to detail having worked in finance, good problem solving skills and interpersonal skills.  Before working in finance I worked in marketing so I have an understanding of the vital role of the customer, utilising their feedback to drive business improvements and the importance of the customer journey.  In my spare time I enjoy writing music and travelling.     
+I have contributed to open source projects as I enjoy collaborating and I find making successful pull requests to those projects exciting.  I have good attention to detail having worked in finance, good problem solving skills and interpersonal skills having worked in finance systems support.  Before working in finance I worked in marketing so I have an understanding of the vital role of the customer, utilising their feedback to improve business processes and the importance of the customer journey.  In my spare time I enjoy writing music, learning languages and travelling.    
+   
  
 ## Projects
 | Name                                                                       | Description                         | Tech/tools  |
