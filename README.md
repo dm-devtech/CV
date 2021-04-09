@@ -7,7 +7,7 @@ I previously worked in accounting (specialising in finance systems administratio
 
 I graduated from the Makers Academy coding course in December 2020 which focused on TDD, OOP, pair programming and group projects.  The course fundamentals were taught in Ruby and JavaScript.  During the course I undertook multiple external reviews of my coding process in Javascript so that I could improve my TDD process.  I have a strong passion for learning so every day I try to learn new tech and code as much as possible in order to expand my knowledge and grow as a developer. 
 
-I have contributed to open source projects as I enjoy collaborating and I find making successful pull requests to those projects exciting.  I have good attention to detail having worked in finance, good problem solving skills and interpersonal skills having worked in finance systems support.  Before working in finance I worked in marketing so I have an understanding of the vital role of the customer, utilising their feedback to improve business processes and the importance of the customer journey.  In my spare time I enjoy writing music, learning languages and travelling.    
+I have contributed to open source projects as I enjoy collaborating and I find making successful pull requests to those projects exciting.  I have good attention to detail, good problem solving skills and interpersonal skills having worked for many years in finance systems adminstration.  Before working in finance I worked in marketing so I have an understanding of the vital role of the customer, utilising their feedback to improve business processes and the importance of the customer journey.  In my spare time I enjoy writing music, learning languages and travelling.    
    
  
 ## Projects
