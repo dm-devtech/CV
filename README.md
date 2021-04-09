@@ -3,15 +3,13 @@
 - [Codewars](https://www.codewars.com/users/dm-devtech)
 
 ## Personal Profile
+I previously worked in accounting (specialising in finance systems administration) for companies and organisations in the UK.  I moved into coding in 2020 because I am motivated by the opportunities coding gives to be creative and build apps that promote learning, provide a useful function or solve a real world problem.  I find it inspiring that coding knowledge gives you to convert an idea into a tangible app.  
 
-I previously worked in accounting (specialising in finance systems administration) for companies and organisations in the UK.  I moved into coding in 2020 because I am motivated by the opportunities coding gives to be creative and build apps that promote learning, provide a useful function or solve a real world problem.  I find it inspiring that coding knowledge gives you to convert any idea into a tangible app.  
+I graduated from the Makers Academy coding course in December 2020 which focused on TDD, OOP, pair programming and group projects.  The course fundamentals were taught in Ruby and JavaScript.  During the course I undertook multiple external reviews of my coding process in Javascript so that I could improve my TDD process.  I have a strong passion for learning so every day I try to learn new tech and code as much as possible in order to expand my knowledge and grow as a developer. 
 
-I graduated from the Makers Academy coding course in December 2020 which focused on TDD, OOP, pair programming and group projects.  The course fundamentals were taught in Ruby and JavaScript.  During the course I undertook multiple external reviews of my coding process in Javascript so that I could improve my TDD process.  I have a strong passion for learning so every day I try to research topics and code in order to expand my knowledge and grow as a developer.  
-
-I recently built a game to learn foreign language words (in German, French and Latin) and this included building dictionary APIs.  I have contributed to open source projects as I very much enjoy collaborating with other devs and I find making successful pull requests to open source projects very satisfying.  I have good attention to detail having worked in finance, good problem solving skills and interpersonal skills.  Before working in finance I worked in marketing so I have an understanding of the vital role of the customer, their feedback and the importance of the user journey.  In my spare time I enjoy writing music and travelling.      
+I have contributed to open source projects as I enjoy collaborating with other devs and I find making successful pull requests to those projects very satisfying.  I have good attention to detail having worked in finance, good problem solving skills and interpersonal skills.  Before working in finance I worked in marketing so I have an understanding of the vital role of the customer, utilising their feedback to drive business improvements and the importance of the customer journey.  In my spare time I enjoy writing music and travelling.     
  
 ## Projects
-
 | Name                                                                       | Description                         | Tech/tools  |
 | -------------------------------------------------------------------------- | ------------------------------------| ----------- |
 | [**Language Lighthouse**](https://github.com/dm-devtech/language-lighthouse)   | A game that enables users to test their knowledge of German, French and Latin.  The app is hosted on Heroku [here](http://language-lighthouse.herokuapp.com/) | Main technologies used: Node Express and PostgreSQL to build the APIs, the game is built in React.  The app is tested in Jest and the React Testing Library |
@@ -49,7 +47,6 @@ I recently built a game to learn foreign language words (in German, French and L
 - Trainee Systems Accountant
 
 ## Skills
-
 #### Attention to detail
 - For example where Historical GL data was required for the deployment of a new finance system.  My task was to map the historical GL data to the new chart of accounts and upload the data for all entities prior to system deployment.  My action was to export historical GL data from the old finance system for prior years, to convert the coding of the data to the new chart of accounts and to convert the data into the correct template format for the upload, review data and ensure accuracy and then upload the data separately for each entity.  The result was that the data was uploaded for multiple entities in time for the deployment of the finance system.
 
@@ -60,7 +57,6 @@ I recently built a game to learn foreign language words (in German, French and L
 - An example of this was the processing of finance systems helpdesk tickets.  The task was to ensure tickets were raised and processed correctly.  My action was to ensure that tickets were raised for finance systems issues, tickets had the relevant priority and detail, ensure that manager approval for the relevant tasks was received before actioning system changes such as opening and closing financial periods or creating GL codes.  The result was that the ticketing system was ewll maintained and system changes were made in accordance with procedure, ensuring a detailed audit trail for tickets so that analsis could take place based on helpdesk  reports.  
 
 ## Education
-
 #### Makers Academy (Septemer 2020 - December 2020)
 12 Week intensive coding bootcamp (remote)
 
