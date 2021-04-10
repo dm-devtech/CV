@@ -47,7 +47,13 @@ I have contributed to open source projects as I enjoy collaborating and I find m
 **Southern Housing** (October 2016 - September 2018)
 - Trainee Systems Accountant
 
+**Pyroban** (2011 - March 2015)
+- Global Marketing Data Analyst
+
 ## Skills
+#### Problem Solving
+- Resolving systems issues was a daily activity as finance systems support at Southern Housing, Statpro and ETF.  In each company I provided first line support for the finance system to the finance team.  At Statpro and Southern Housing this was managed via the Jira and Vivantio helpdesks respectively.  I picked up issues from those heldesks and resolved them through research, collaboration with the finance teams or if required the third party software support.  As a result I became adept at solving problems and I was able to utilise this skill during the Makers course and when working on personal coding projects to debug issues with code or when running tests.  
+
 #### Attention to detail
 - For example where Historical GL data was required for the deployment of a new finance system.  My task was to map the historical GL data to the new chart of accounts and upload the data for all entities prior to system deployment.  My action was to export historical GL data from the old finance system for prior years, to convert the coding of the data to the new chart of accounts and to convert the data into the correct template format for the upload, review data and ensure accuracy and then upload the data separately for each entity.  The result was that the data was uploaded for multiple entities in time for the deployment of the finance system.
 
