@@ -18,12 +18,12 @@ I am a recent Makers Academy graduate looking for my first opportunity in softwa
  
 ## Technologies
 ### Experience with:
-Javascript, Node, Express, React, Jasmine, Jest, Cypress, React Testing Library
-Ruby, Rails, Sinatra, RSpec, Capybara 
-SQL, PostgreSQL
-TDD, OOP, Agile development, CI/CD
+- Javascript, Node, Express, React, Jasmine, Jest, Cypress, React Testing Library
+- Ruby, Rails, Sinatra, RSpec, Capybara 
+- SQL, PostgreSQL
+- TDD, OOP, Agile development, CI/CD
 
-## Experience
+## Career History
 
 **Education and Training Foundation** (April 2020 - August 2020)  
 - Finance Systems Specialist
