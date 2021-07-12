@@ -3,11 +3,7 @@
 - [Codewars](https://www.codewars.com/users/dm-devtech)
 
 ## Personal Profile
-I previously worked in accounting (specialising in finance systems administration) for companies and organisations in the UK.  I moved into software development in 2020 because I am motivated by creativity, collaborating with other developers, learning new technologies, using tech to drive business improvements and to deliver tangible benefits to users and organisations.
-
-I have contributed to open source projects, I have good attention to detail, good problem solving skills and interpersonal skills. Before working in finance I worked in marketing so I have an understanding of the vital role of the customer, utilising their feedback to improve business processes and the importance of the customer journey. 
-
-Coding crosses over into my hobbies as I use Max/MSP in music composition.  Max is a visual programming language for music and multimedia development.  I have built instruments and audio effects in Max/MSP, for example patches which sample and manipulate guitar signals to create unique sounds. My other hobbies include learning languages and I have utilised my coding knowledge to build a language learning app for three different languages.  
+I am a recent Makers Academy graduate looking for my first opportunity in software development.  I have a previous career in finance systems administration and I wanted to take the skills I’ve learned to the next level, working in a more dynamic sector with the opportunity to learn and solve interesting problems with diverse teams of people.  I am keen to develop what I learned at Makers Academy and have been contributing to open source projects such as the Adobe CLI Runtime on Github while I search for my first role.
  
 ## Projects
 | Name                                                                       | Description                         | Tech/tools  |
