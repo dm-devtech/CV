@@ -17,21 +17,11 @@ I am a recent Makers Academy graduate looking for my first opportunity in softwa
 | [**Twitter clone**](https://github.com/dm-devtech/ChitterChallenge) | A twitter clone app that enables users to post tweets | Ruby, Postgres, Sinatra.  Testing in Rspec and Capybara |
  
 ## Technologies
-### Languages used:
-- Javascript (with ReactJS)
-- Ruby (also with Sinatra)
-- Rails
-- SQL (Postgresql)
-- HTML
-- CSS
-
-### Testing frameworks used:
-- Jasmine
-- Jest
-- Cypress
-- React testing library
-- RSpec
-- Capybara
+### Experience with:
+Javascript, Node, Express, React, Jasmine, Jest, Cypress, React Testing Library
+Ruby, Rails, Sinatra, RSpec, Capybara 
+SQL, PostgreSQL
+TDD, OOP, Agile development, CI/CD
 
 ## Experience
 
