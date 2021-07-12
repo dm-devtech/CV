@@ -14,7 +14,7 @@ I am a recent Makers Academy graduate looking for my first opportunity in softwa
 | [**CatchMe App**](https://github.com/dm-devtech/catchme-web) [![Build Status](https://travis-ci.com/gonzalober/catchme-web.svg?branch=main)](https://travis-ci.com/gonzalober/catchme-web) | A multiplayer game where you can race your friends in race of distances.  The app is hosted on Heroku [here](https://appcatchme.herokuapp.com/) | Main technologies used: Cypress, ReactJS, JavaScript, Apollo Client, Sass |
 | [**Bowling Scorecard React App**](https://github.com/dm-devtech/Bowling-Scorecard-React)   | A React app that for entering and calculating scores in a game of ten pin bowling. | Technologies used: Javascript (for the scoring logic), Jest/React Testing Library, React |
 | [**Baseball Scorecard**](https://github.com/dm-devtech/Baseball-Scorecard_ReactApp) [![Build Status](https://travis-ci.com/dm-devtech/Baseball-Scorecard_ReactApp.svg?branch=main)](https://travis-ci.com/dm-devtech/Baseball-Scorecard_ReactApp) | A React app for tracking progress in a game of baseball.  Hosted on Heroku [here](https://baseball-scorecard.herokuapp.com/) | React, Jest/React testing library |
-| [**Twitter clone**](https://github.com/dm-devtech/ChitterChallenge) | A twitter clone app that enables users to post tweets | Ruby, Postgres, Sinatra.  Testing in Rspec and Capybara |
+| [**Twitter clone**](https://github.com/dm-devtech/ChitterChallenge) [![Build Status](https://www.travis-ci.com/dm-devtech/ChitterChallenge.svg?branch=master)](https://www.travis-ci.com/dm-devtech/ChitterChallenge) | A twitter clone app that enables users to post tweets | Ruby, Postgres, Sinatra.  Testing in Rspec and Capybara |
  
 ## Technologies
 ### Experience with:
