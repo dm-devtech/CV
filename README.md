@@ -4,7 +4,7 @@
 - [Website](https://dm-portfolio.netlify.app/)
 
 ## Personal Profile
-Currently a full stack dev working in EdTech at BridgeU.  I have a previous career in finance systems administration and I wanted to take the skills I’ve learned to the next level, working in a more dynamic sector with the opportunity to learn and solve interesting problems with diverse teams of people.
+Currently a full stack dev working in EdTech at BridgeU.  I enjoy solve interesting problems, working with with diverse teams of people and I have a particular interest in Rails, Postgres and React.
  
 ## Projects
 | Name                                                                       | Deployment Link|Description                         | Tech/tools  |
