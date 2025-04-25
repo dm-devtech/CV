@@ -4,7 +4,7 @@
 - [Website](https://dm-portfolio.netlify.app/)
 
 ## Personal Profile
-Currently a full stack dev working in EdTech at BridgeU.  I enjoy solve interesting problems, working with with diverse teams of people and I have a particular interest in Rails, Postgres and React.
+Software Engineer in EdTech company BridgeU.  I enjoy solving customer problems and working in diverse teams and I have a particular interest in Svelte, React, Vue and Rails.
  
 ## Projects
 | Name                                                                       | Deployment Link|Description                         | Tech/tools  |
@@ -19,15 +19,17 @@ Currently a full stack dev working in EdTech at BridgeU.  I enjoy solve interest
  
 ## Technologies
 ### Experience with:
-- Javascript, Node, Express, React, Jasmine, Jest, Cypress, React Testing Library
-- Ruby, Rails, Sinatra, RSpec, Capybara 
+- Svelte, Typescript, Vue.js, Javascript, Node, Express, React, Elm.
+- Ruby, Rails, Sinatra,
+- Vitest, Playwright, Minitest, Jest, Capybara, Cypress, React Testing Library, RSpec 
 - SQL, PostgreSQL
-- TDD, OOP, Agile development, CI/CD
+- TDD, OOP,  Agile, CI/CD
 
 ## Career History
 
-**BridgeU** (October 2021 - present)
-- Associate Software Developer
+**BridgeU**
+- Associate Software Developer (October 2021 - July 2023)
+- Software Engineer(July 2023 - Present)
 
 **Education and Training Foundation** (April 2020 - August 2020)  
 - Finance Systems Specialist
